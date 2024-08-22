@@ -1,0 +1,10 @@
+section {
+    background: linear-gradient(0deg, black 0%, #5a5c6c 100%);
+}
+
+.anim-btn {
+    margin-top: 30px;
+}
+.master-conteiner img {
+max-width: 300px;
+}
